@@ -1,0 +1,16 @@
+{
+  "name": "Izaki Genesis #42",
+  "description": "DATA DUMMY untuk demo ChainCipher. Bukan data asli.",
+  "image": "ipfs://bafy-dummy-cid-izaki-genesis-42/image.png",
+  "external_url": "https://example.com/nft/42",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "Legendary" },
+    { "trait_type": "Series", "value": "Genesis" },
+    { "trait_type": "Edition", "value": 42 }
+  ],
+  "unlockable_content": {
+    "redeem_code": "DUMMY-ABCD-1234-EFGH",
+    "private_url": "https://example.com/private/nft-42",
+    "note": "Konten rahasia pemilik NFT (dummy)"
+  }
+}

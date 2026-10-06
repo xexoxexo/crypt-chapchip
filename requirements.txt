@@ -1,0 +1,7 @@
+streamlit>=1.36
+streamlit-authenticator>=0.4.1
+streamlit-autorefresh
+pandas
+requests
+PyYAML
+pytest
