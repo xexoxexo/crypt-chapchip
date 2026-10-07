@@ -624,4 +624,4 @@ pytest -q
 
 **Mata kuliah / dosen:** (Keamanan Informasi/Assoc. Prof. Dr. Sucipto, M.Kom)
 
-**Lisensi:** tentukan sebelum dipublikasikan (misalnya MIT). Proyek ini dibuat untuk tujuan edukasi.
+**Lisensi:** Proyek ini dibuat untuk tujuan tugas Keamanan Informasi.
