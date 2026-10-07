@@ -599,19 +599,7 @@ pytest -q
 
 ---
 
-## 17. Kesesuaian dengan Ketentuan Tugas
-
-| Ketentuan dosen | Pemenuhan dalam proyek ini |
-|---|---|
-| 1. Project kelompok | Diisi pada bagian [Tim](#18-tim-dan-lisensi) |
-| 2. Program enkripsi dan deskripsi kombinasi/modifikasi algoritma | ChainCipher; deskripsi pada [bagian 8](#8-cara-kerja-algoritma-chaincipher), termasuk tabel kombinasi dan modifikasi (8.8) |
-| 3. Python disarankan dengan Streamlit | Seluruh aplikasi memakai Python dan Streamlit |
-| 4. Dikumpulkan berupa PPT, modul penggunaan, dan laporan | Bagian 7, 9, dan 14 dapat dijadikan dasar modul penggunaan; PPT dan laporan disusun terpisah |
-| 5. Nilai maksimal bila algoritma berbeda antar kelompok | Rancangan memakai kombinasi khas (S-box dinamis per pesan, permutasi per blok, difusi maju-mundur, hash chain, Merkle + HMAC) yang berbeda dari kombinasi umum seperti Caesar + Vigenere |
-
----
-
-## 18. Tim dan Lisensi
+## 17. Tim dan Lisensi
 
 |        Nama          |      NPM     |
 |----------------------|--------------|
