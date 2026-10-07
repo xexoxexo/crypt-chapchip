@@ -613,11 +613,15 @@ pytest -q
 
 ## 18. Tim dan Lisensi
 
-| Nama | NIM | Peran |
+| Nama | NIM |
 |---|---|---|
-| (isi) | (isi) | (isi) |
-| (isi) | (isi) | (isi) |
+| (zaky arman maulana) | (2413030062) |
+| (Febry) | (isi) |
+| (Irul) | (isi) |
+| (Nanda) | (isi) |
+| (Elfanda) | (isi) |
+| (Riko) | (isi) |
 
-**Mata kuliah / dosen:** (isi)
+**Mata kuliah / dosen:** (Keamanan Informasi/Assoc. Prof. Dr. Sucipto, M.Kom)
 
 **Lisensi:** tentukan sebelum dipublikasikan (misalnya MIT). Proyek ini dibuat untuk tujuan edukasi.
