@@ -613,14 +613,14 @@ pytest -q
 
 ## 18. Tim dan Lisensi
 
-| Nama | NIM |
-|---|---|---|
+|        Nama          |      NPM     |
+|----------------------|--------------|
 | (zaky arman maulana) | (2413030062) |
-| (Febry) | (isi) |
-| (Irul) | (isi) |
-| (Nanda) | (isi) |
-| (Elfanda) | (isi) |
-| (Riko) | (isi) |
+| (Febry)              | (isi)        |
+| (Irul)               | (isi)        |
+| (Nanda)              | (isi)        |
+| (Elfanda)            | (isi)        |
+| (Riko)               | (isi)        |
 
 **Mata kuliah / dosen:** (Keamanan Informasi/Assoc. Prof. Dr. Sucipto, M.Kom)
 
