@@ -562,20 +562,7 @@ pytest -q
 
 ---
 
-## 15. Pengembangan Lanjutan
-
-| Gagasan | Manfaat |
-|---|---|
-| **Anchor sungguhan ke testnet** (smart contract Solidity sederhana yang menyimpan Merkle root, mis. di Sepolia) | Bukti keutuhan benar-benar tidak bisa diubah |
-| Penyimpanan akun di database (SQLite atau Supabase) | Akun tidak hilang saat deploy ulang, mendukung banyak pengguna |
-| Pembungkus AEAD standar (AES-256-GCM) sebagai mode pembanding | Membandingkan ChainCipher dengan standar industri |
-| Unggah paket ke IPFS dan simpan CID | Mewujudkan alur Web3 end-to-end |
-| Audit dan analisis kriptanalisis (diferensial dan linear) | Menilai kekuatan rancangan secara ilmiah |
-| Dukungan file lebih besar dan mode streaming | Skala data yang lebih luas |
-
----
-
-## 16. Glosarium
+## 15. Glosarium
 
 | Istilah | Arti sederhana |
 |---|---|
@@ -599,7 +586,7 @@ pytest -q
 
 ---
 
-## 17. Tim dan Lisensi
+## 16. Tim dan Lisensi
 
 |        Nama          |      NPM     |
 |----------------------|--------------|
