@@ -25,8 +25,7 @@ melindungi private key, seed phrase, atau aset nyata. Lihat [Keamanan dan Batasa
 13. [Keamanan dan Batasan](#13-keamanan-dan-batasan)
 14. [FAQ dan Pemecahan Masalah](#14-faq-dan-pemecahan-masalah)
 15. [Glosarium](#16-glosarium)
-16. [Kesesuaian dengan Ketentuan Tugas](#17-kesesuaian-dengan-ketentuan-tugas)
-17. [Tim dan Lisensi](#18-tim-dan-lisensi)
+16. [Tim dan Lisensi](#18-tim-dan-lisensi)
 
 ---
 
