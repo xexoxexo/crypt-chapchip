@@ -40,6 +40,7 @@ import shutil
 import tempfile
 import argparse
 import importlib
+import importlib.util
 from base64 import b85decode
 
 
@@ -95,8 +96,11 @@ def monkeypatch_for_cert(tmpdir):
 
     # We want to be using the internal certificates.
     cert_path = os.path.join(tmpdir, "cacert.pem")
+    cert_data = pkgutil.get_data("pip._vendor.certifi", "cacert.pem")
+    if cert_data is None:
+        raise RuntimeError("Unable to load bundled certifi CA bundle")
     with open(cert_path, "wb") as cert:
-        cert.write(pkgutil.get_data("pip._vendor.certifi", "cacert.pem"))
+        cert.write(cert_data)
 
     install_parse_args = InstallCommand.parse_args
 
