@@ -57,16 +57,9 @@ def short(h: str) -> str:
 
 # ------------------------------------------------------------------ header
 st.title("🔐 ChainCipher")
-st.caption("Enkripsi berantai bertema blockchain: hash chain antar blok + pohon Merkle + HMAC (format CCv1).")
-st.warning(
-    "**Tujuan edukasi.** Algoritma ini adalah rancangan kombinasi/modifikasi untuk tugas kuliah dan **belum diaudit**. "
-    "Jangan memasukkan private key, seed phrase, atau data rahasia asli. Untuk produksi gunakan AES-256-GCM atau "
-    "ChaCha20-Poly1305 dari library teruji.",
-    icon="⚠️",
-)
 
 tab_enc, tab_dec, tab_ver, tab_ana = st.tabs(
-    ["🔐 Enkripsi", "🔓 Dekripsi", "🧾 Verifikasi Merkle", "📊 Analisis & Algoritma"]
+    ["🔐 Enkripsi", "🔓 Dekripsi", "🧾 Verifikasi", "📊 Analisis & Algoritma"]
 )
 
 # ------------------------------------------------------------------ ENKRIPSI
